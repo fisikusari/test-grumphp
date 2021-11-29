@@ -1,1 +1,2 @@
-<?php echo 'hello';
+<?php 
+class User extends Interface{}
