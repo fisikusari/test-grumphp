@@ -1,2 +1,5 @@
 <?php 
-class User extends Interface{}
+class User extends Interface{
+  
+  send();
+}
